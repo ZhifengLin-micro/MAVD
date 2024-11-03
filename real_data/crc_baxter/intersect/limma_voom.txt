@@ -1,0 +1,9 @@
+g__Collinsella
+g__Porphyromonas
+g__Gemella
+g__Anaerococcus
+g__Parvimonas
+g__Peptoniphilus
+g__Peptostreptococcus
+g__Clostridium_XVIII
+g__Fusobacterium

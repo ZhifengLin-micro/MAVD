@@ -1,0 +1,3 @@
+k__Bacteria._.p__Firmicutes._.c__Clostridia._.o__Clostridiales._.f__Peptostreptococcaceae._.g__Peptostreptococcus
+k__Bacteria._.p__Firmicutes._.c__Clostridia._.o__Clostridiales._.f__Ruminococcaceae._.g__Flavonifractor
+k__Bacteria._.p__Fusobacteria._.c__Fusobacteriia._.o__Fusobacteriales._.f__Fusobacteriaceae._.g__Fusobacterium

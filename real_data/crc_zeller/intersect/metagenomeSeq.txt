@@ -1,0 +1,5 @@
+k__Bacteria._.p__Bacteroidetes._.c__Bacteroidia._.o__Bacteroidales._.f__Porphyromonadaceae._.g__Porphyromonas
+k__Bacteria._.p__Firmicutes._.c__Bacilli._.o__Lactobacillales._.f__Streptococcaceae._.g__
+k__Bacteria._.p__Firmicutes._.c__Clostridia._.o__Clostridiales._.f__Clostridiales_Incertae_Sedis_XI._.g__Parvimonas
+k__Bacteria._.p__Firmicutes._.c__Clostridia._.o__Clostridiales._.f__Peptostreptococcaceae._.g__Peptostreptococcus
+k__Bacteria._.p__Firmicutes._.c__Clostridia._.o__Clostridiales._.f__Ruminococcaceae._.g__Anaerotruncus

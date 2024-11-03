@@ -1,0 +1,13 @@
+k__Bacteria._.p__Actinobacteria._.c__Actinobacteria._.o__Bifidobacteriales._.f__Bifidobacteriaceae._.g__Alloscardovia
+k__Bacteria._.p__Actinobacteria._.c__Actinobacteria._.o__Coriobacteriales._.f__Coriobacteriaceae._.g__Collinsella
+k__Bacteria._.p__Bacteroidetes._.c__Bacteroidia._.o__Bacteroidales._.f__Porphyromonadaceae._.g__Porphyromonas
+k__Bacteria._.p__Firmicutes._.c__Bacilli._.o__Lactobacillales._.f__Enterococcaceae._.g__Enterococcus
+k__Bacteria._.p__Firmicutes._.c__Clostridia._.o__Clostridiales._.f__Clostridiales_Incertae_Sedis_XI._.g__
+k__Bacteria._.p__Firmicutes._.c__Clostridia._.o__Clostridiales._.f__Clostridiales_Incertae_Sedis_XI._.g__Anaerococcus
+k__Bacteria._.p__Firmicutes._.c__Clostridia._.o__Clostridiales._.f__Clostridiales_Incertae_Sedis_XI._.g__Parvimonas
+k__Bacteria._.p__Firmicutes._.c__Clostridia._.o__Clostridiales._.f__Peptostreptococcaceae._.g__Peptostreptococcus
+k__Bacteria._.p__Firmicutes._.c__Negativicutes._.o__Selenomonadales._.f__Acidaminococcaceae._.g__Succiniclasticum
+k__Bacteria._.p__Firmicutes._.c__Negativicutes._.o__Selenomonadales._.f__Veillonellaceae._.g__Megamonas
+k__Bacteria._.p__Lentisphaerae._.c__Lentisphaeria._.o__Victivallales._.f__Victivallaceae._.g__Victivallis
+k__Bacteria._.p__Proteobacteria._.c__Betaproteobacteria._.o__Neisseriales._.f__Neisseriaceae._.g__Eikenella
+k__Bacteria._.p__Proteobacteria._.c__Gammaproteobacteria._.o__Enterobacteriales._.f__Enterobacteriaceae._.g__Enterobacter

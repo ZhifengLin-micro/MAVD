@@ -1,0 +1,14 @@
+g__Porphyromonas
+g__Gemella
+g__Anaerosporobacter
+g__Parvimonas
+g__Mogibacterium
+g__Lachnospiracea_incertae_sedis
+g__Peptostreptococcus
+g__Clostridium_IV
+g__Clostridium_XVIII
+g__Fusobacterium
+g__Bilophila
+g__Enterobacter
+g__Haemophilus
+g__Pseudomonas

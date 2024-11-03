@@ -1,0 +1,11 @@
+id	Type
+LinDA	N1
+MaAsLin2	N2
+metagenomeSeq	N3
+Wilcox	N4
+fastANCOM	N5
+LEfSe	N6
+DACOMP	N7
+Corncob	N8
+ALDEx2	N9
+MAVD	N10

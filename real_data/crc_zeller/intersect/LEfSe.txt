@@ -1,0 +1,11 @@
+k__Bacteria._.p__Firmicutes._.c__Clostridia._.o__Clostridiales._.f__Lachnospiraceae._.g__Anaerostipes
+k__Bacteria._.p__Fusobacteria._.c__Fusobacteriia._.o__Fusobacteriales._.f__Fusobacteriaceae._.g__Fusobacterium
+k__Bacteria._.p__Firmicutes._.c__Clostridia._.o__Clostridiales._.f__Ruminococcaceae._.g__Flavonifractor
+k__Bacteria._.p__Firmicutes._.c__Clostridia._.o__Clostridiales._.f__Peptostreptococcaceae._.g__Peptostreptococcus
+k__Bacteria._.p__Firmicutes._.c__Clostridia._.o__Clostridiales._.f__Ruminococcaceae._.g__Anaerotruncus
+k__Bacteria._.p__Bacteroidetes._.c__Bacteroidia._.o__Bacteroidales._.f__Porphyromonadaceae._.g__Butyricimonas
+k__Bacteria._.p__Bacteroidetes._.c__Bacteroidia._.o__Bacteroidales._.f__Porphyromonadaceae._.g__Porphyromonas
+k__Bacteria._.p__Firmicutes._.c__Clostridia._.o__Clostridiales._.f__Clostridiales_Incertae_Sedis_XIII._.g__Anaerovorax
+k__Bacteria._.p__Firmicutes._.c__Clostridia._.o__Clostridiales._.f__Clostridiales_Incertae_Sedis_XI._.g__Parvimonas
+k__Bacteria._.p__Proteobacteria._.c__Betaproteobacteria._.o__Neisseriales._.f__Neisseriaceae._.g__Eikenella
+k__Bacteria._.p__Proteobacteria._.c__Betaproteobacteria._.o__Burkholderiales._.f__Comamonadaceae._.g__Comamonas

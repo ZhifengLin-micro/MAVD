@@ -1,0 +1,10 @@
+g__Collinsella
+g__Porphyromonas
+g__Undefined(f__Clostridiaceae_2)
+g__Anaerococcus
+g__Parvimonas
+g__Lachnobacterium
+g__Peptostreptococcus
+g__Undefined(f__Erysipelotrichaceae)
+g__Catenibacterium
+g__Fusobacterium

@@ -1,0 +1,6 @@
+g__Porphyromonas
+g__Parvimonas
+g__Lachnobacterium
+g__Peptostreptococcus
+g__Fusobacterium
+g__Haemophilus

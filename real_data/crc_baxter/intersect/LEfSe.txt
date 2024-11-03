@@ -1,0 +1,8 @@
+g__Porphyromonas
+g__Collinsella
+g__Fusobacterium
+g__Catenibacterium
+g__Parvimonas
+g__Peptostreptococcus
+g__Anaerococcus
+g__Lachnobacterium
